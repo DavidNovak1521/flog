@@ -1,10 +1,12 @@
-name: flog
-description: "A new Flutter package project."
+name: flog_logger
+description: "Flutter package for logging."
 version: 0.0.1
-homepage:
+homepage: https://github.com/DavidNovak1521/flog
+repository: https://github.com/DavidNovak1521/flog
+documentation: https://github.com/DavidNovak1521/flog
 
 environment:
-  sdk: ^3.5.3
+  sdk: ">=3.2.4 <4.0.0"
   flutter: ">=1.17.0"
 
 dependencies:
